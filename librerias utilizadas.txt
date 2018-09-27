@@ -1,0 +1,4 @@
+librer�as utilizadas en este propyecto:
+
+bootstrap
+react-maskedinput

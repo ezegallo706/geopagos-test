@@ -1,0 +1,585 @@
+[
+    {
+    "id": "1",
+    "name": "C.A.B.A",
+    "cities": [
+      {
+        "id": "1",
+        "name": "25 de Mayo"
+        
+      },
+      {
+        "id": "2",
+        "name": "3 de febrero"
+        
+      },
+      {
+        "id": "3",
+        "name": "A. Alsina"
+        
+      },
+      {
+        "id": "4",
+        "name": "A. Gonzáles Cháves"
+        
+      },
+      {
+        "id": "5",
+        "name": "Aguas Verdes"
+        
+      },
+      {
+        "id": "6",
+        "name": "Alberti"
+        
+      },
+      {
+        "id": "7",
+        "name": "Arrecifes"
+        
+      },
+      {
+        "id": "8",
+        "name": "Ayacucho"
+        
+      },
+      {
+        "id": "9",
+        "name": "Azul"
+        
+      },
+      {
+        "id": "10",
+        "name": "Bahía Blanca"
+      },
+      {
+        "id": "11",
+        "name": "Balcarce"
+      },
+      {
+        "id": "12",
+        "name": "Baradero"
+      },
+      {
+        "id": "13",
+        "name": "Benito Juárez"
+      },
+      {
+        "id": "14",
+        "name": "Berisso"
+      },
+      {
+        "id": "15",
+        "name": "Bolívar"
+      },
+      {
+        "id": "16",
+        "name": "Bragado"
+      },
+      {
+        "id": "17",
+        "name": "Brandsen"
+      },
+      {
+        "id": "18",
+        "name": "Campana"
+      },
+      {
+        "id": "19",
+        "name": "Cañuelas"
+      },
+      {
+        "id": "20",
+        "name": "Capilla del Señor"
+      },
+      {
+        "id": "21",
+        "name": "Capitán Sarmiento"
+      },
+      {
+        "id": "22",
+        "name": "Carapachay"
+      },
+      {
+        "id": "23",
+        "name": "Carhue"
+      },
+      {
+        "id": "24",
+        "name": "Cariló"
+      },
+      {
+        "id": "25",
+        "name": "Carlos Casares"
+      },
+      {
+        "id": "26",
+        "name": "Carlos Tejedor"
+      },
+      {
+        "id": "27",
+        "name": "Carmen de Areco"
+      },
+      {
+        "id": "28",
+        "name": "Carmen de Patagones"
+      },
+      {
+        "id": "29",
+        "name": "Castelli"
+      },
+      {
+        "id": "30",
+        "name": "Chacabuco"
+      },
+      {
+        "id": "31",
+        "name": "Chascomús"
+      },
+      {
+        "id": "32",
+        "name": "Chivilcoy"
+      },
+      {
+        "id": "33",
+        "name": "Colón"
+      },
+      {
+        "id": "34",
+        "name": "Coronel Dorrego"
+      },
+      {
+        "id": "35",
+        "name": "Coronel Pringles"
+      },
+      {
+        "id": "36",
+        "name": "Coronel Rosales"
+      },
+      {
+        "id": "37",
+        "name": "Coronel Suarez"
+      },
+      {
+        "id": "38",
+        "name": "Costa Azul"
+      },
+      {
+        "id": "39",
+        "name": "Costa Chica"
+      },
+      {
+        "id": "40",
+        "name": "Costa del Este"
+      },
+      {
+        "id": "41",
+        "name": "Costa Esmeralda"
+      },
+      {
+        "id": "42",
+        "name": "Daireaux"
+      },
+      {
+        "id": "43",
+        "name": "Darregueira"
+      },
+      {
+        "id": "44",
+        "name": "Del Viso"
+      },
+      {
+        "id": "45",
+        "name": "Dolores"
+      },
+      {
+        "id": "46",
+        "name": "Don Torcuato"
+      },
+      {
+        "id": "47",
+        "name": "Ensenada"
+      },
+      {
+        "id": "48",
+        "name": "Escobar"
+      },
+      {
+        "id": "49",
+        "name": "Exaltación de la Cruz"
+      },
+      {
+        "id": "50",
+        "name": "Florentino Ameghino"
+      },
+      {
+        "id": "51",
+        "name": "Garín"
+      },
+      {
+        "id": "52",
+        "name": "Gral. Alvarado"
+      },
+      {
+        "id": "53",
+        "name": "Gral. Alvear"
+      },
+      {
+        "id": "54",
+        "name": "Gral. Arenales"
+      },
+      {
+        "id": "55",
+        "name": "Gral. Belgrano"
+      },
+      {
+        "id": "56",
+        "name": "Gral. Guido"
+      },
+      {
+        "id": "57",
+        "name": "Gral. Lamadrid"
+      },
+      {
+        "id": "58",
+        "name": "Gral. Las Heras"
+      },
+      {
+        "id": "59",
+        "name": "Gral. Lavalle"
+      },
+      {
+        "id": "60",
+        "name": "Gral. Madariaga"
+      },
+      {
+        "id": "61",
+        "name": "Gral. Pacheco"
+      },
+      {
+        "id": "62",
+        "name": "Gral. Paz"
+      },
+      {
+        "id": "63",
+        "name": "Gral. Pinto"
+      },
+      {
+        "id": "64",
+        "name": "Gral. Pueyrredón"
+      },
+      {
+        "id": "65",
+        "name": "Gral. Rodríguez"
+      },
+      {
+        "id": "66",
+        "name": "Gral. Viamonte"
+      },
+      {
+        "id": "67",
+        "name": "Gral. Villegas"
+      },
+      {
+        "id": "68",
+        "name": "Guaminí"
+      },
+      {
+        "id": "69",
+        "name": "Guernica"
+      },
+      {
+        "id": "70",
+        "name": "Hipólito Yrigoyen"
+      },
+      {
+        "id": "71",
+        "name": "Ing. Maschwitz"
+      },
+      {
+        "id": "72",
+        "name": "Junín"
+      },
+      {
+        "id": "73",
+        "name": "La Plata"
+      },
+      {
+        "id": "74",
+        "name": "Laprida"
+      },
+      {
+        "id": "75",
+        "name": "Las Flores"
+      },
+      {
+        "id": "76",
+        "name": "Las Toninas"
+      },
+      {
+        "id": "77",
+        "name": "Leandro N. Alem"
+      },
+      {
+        "id": "78",
+        "name": "Lincoln"
+      },
+      {
+        "id": "79",
+        "name": "Loberia"
+      },
+      {
+        "id": "80",
+        "name": "Lobos"
+      },
+      {
+        "id": "81",
+        "name": "Los Cardales"
+      },
+      {
+        "id": "82",
+        "name": "Los Toldos"
+      },
+      {
+        "id": "83",
+        "name": "Lucila del Mar"
+      },
+      {
+        "id": "84",
+        "name": "Luján"
+      },
+      {
+        "id": "85",
+        "name": "Magdalena"
+      },
+      {
+        "id": "86",
+        "name": "Maipú"
+      },
+      {
+        "id": "87",
+        "name": "Mar Chiquita"
+      },
+      {
+        "id": "88",
+        "name": "Mar de Ajó"
+      },
+      {
+        "id": "89",
+        "name": "Mar de las Pampas"
+      },
+      {
+        "id": "90",
+        "name": "Mar del Plata"
+      },
+      {
+        "id": "91",
+        "name": "Mar del Tuyú"
+      },
+      {
+        "id": "92",
+        "name": "Marcos Paz"
+      },
+      {
+        "id": "93",
+        "name": "Mercedes"
+      },
+      {
+        "id": "94",
+        "name": "Miramar"
+      },
+      {
+        "id": "95",
+        "name": "Monte"
+      },
+      {
+        "id": "96",
+        "name": "Monte Hermoso"
+      },
+      {
+        "id": "97",
+        "name": "Munro"
+      },
+      {
+        "id": "98",
+        "name": "Navarro"
+      },
+      {
+        "id": "99",
+        "name": "Necochea"
+      },
+      {
+        "id": "100",
+        "name": "Olavarría"
+      },
+      {
+        "id": "101",
+        "name": "Partido de la Costa"
+      },
+      {
+        "id": "102",
+        "name": "Pehuajó"
+      },
+      {
+        "id": "103",
+        "name": "Pellegrini"
+      },
+      {
+        "id": "104",
+        "name": "Pergamino"
+      },
+      {
+        "id": "105",
+        "name": "Pigüé"
+      },
+      {
+        "id": "106",
+        "name": "Pila"
+      },
+      {
+        "id": "107",
+        "name": "Pilar"
+      },
+      {
+        "id": "108",
+        "name": "Pinamar"
+      },
+      {
+        "id": "109",
+        "name": "Pinar del Sol"
+      },
+      {
+        "id": "110",
+        "name": "Polvorines"
+      },
+      {
+        "id": "111",
+        "name": "Pte. Perón"
+      },
+      {
+        "id": "112",
+        "name": "Puán"
+      },
+      {
+        "id": "113",
+        "name": "Punta Indio"
+      },
+      {
+        "id": "114",
+        "name": "Ramallo"
+      },
+      {
+        "id": "115",
+        "name": "Rauch"
+      },
+      {
+        "id": "116",
+        "name": "Rivadavia"
+      },
+      {
+        "id": "117",
+        "name": "Rojas"
+      },
+      {
+        "id": "118",
+        "name": "Roque Pérez"
+      },
+      {
+        "id": "119",
+        "name": "Saavedra"
+      },
+      {
+        "id": "120",
+        "name": "Saladillo"
+      },
+      {
+        "id": "121",
+        "name": "Salliqueló"
+      },
+      {
+        "id": "122",
+        "name": "Salto"
+      },
+      {
+        "id": "123",
+        "name": "San Andrés de Giles"
+      },
+      {
+        "id": "124",
+        "name": "San Antonio de Areco"
+      },
+      {
+        "id": "125",
+        "name": "San Antonio de Padua"
+      },
+      {
+        "id": "126",
+        "name": "San Bernardo"
+      },
+      {
+        "id": "127",
+        "name": "San Cayetano"
+      },
+      {
+        "id": "128",
+        "name": "San Clemente del Tuyú"
+      },
+      {
+        "id": "129",
+        "name": "San Nicolás"
+      },
+      {
+        "id": "130",
+        "name": "San Pedro"
+      },
+      {
+        "id": "131",
+        "name": "San Vicente"
+      },
+      {
+        "id": "132",
+        "name": "Santa Teresita"
+      },
+      {
+        "id": "133",
+        "name": "Suipacha"
+      },
+      {
+        "id": "134",
+        "name": "Tandil"
+      },
+      {
+        "id": "135",
+        "name": "Tapalqué"
+      },
+      {
+        "id": "136",
+        "name": "Tordillo"
+      },
+      {
+        "id": "137",
+        "name": "Tornquist"
+      },
+      {
+        "id": "138",
+        "name": "Trenque Lauquen"
+      },
+      {
+        "id": "139",
+        "name": "Tres Lomas"
+      },
+      {
+        "id": "140",
+        "name": "Villa Gesell"
+      },
+      {
+        "id": "141",
+        "name": "Villarino"
+      },
+      {
+        "id": "142",
+        "name": "Zárate"
+      }
+    ]
+  }
+]
